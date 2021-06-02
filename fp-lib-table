@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name LED_5mm_centered)(type KiCad)(uri ${KIPRJMOD}/LED_5mm_centered.pretty)(options "")(descr ""))
+  (lib (name R_centered)(type KiCad)(uri ${KIPRJMOD}/R_centered.pretty)(options "")(descr ""))
+)
